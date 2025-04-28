@@ -104,7 +104,7 @@ python xmlrploit.py -m mass -f targets.txt
 ### 4. Scan Only (No Exploit)
 
 ```bash
-python xmlrploit.py -u http://target.com/xmlrpc.php -m exploit --scan-only
+python xmlrploit.py -u http://target.com/xmlrpc.php --scan-only
 ```
 
 ```bash
