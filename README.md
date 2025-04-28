@@ -1,5 +1,3 @@
-# xmlrploit
-
 **XML-RPC Exploit & Brute Tool for WordPress**
 
 ---
